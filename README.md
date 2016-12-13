@@ -11,7 +11,7 @@ Amount of flash cards | 517+
 Completed flash cards for LPIC-1 exam 101 | 101, 102
 Completed flash cards for LPIC-1 exam 102 | - 
 
-## LPIC-1 Exam 101 Topics
+### LPIC-1 Exam 101 Topics
 
 Topics and sub-topics are tagged according to the LPIC-1 exam 101 outline.
 
@@ -22,7 +22,7 @@ Topics and sub-topics are tagged according to the LPIC-1 exam 101 outline.
 - 103 - GNU and Unix Commands
 - 104 - Devices, Linux Filesystems, Filesystem Hierarchy Standard
 
-## LPIC-1 Exam 102 Topics
+### LPIC-1 Exam 102 Topics
 
 Topics and sub-topics are tagged according to the LPIC-1 exam 102 outline.
 
@@ -32,6 +32,20 @@ Topics and sub-topics are tagged according to the LPIC-1 exam 102 outline.
 - 108 - Essential System Services
 - 109 - Networking Fundamentals
 - 110 - Security
+
+***
+
+## Get Anki
+
+The [Anki](http://ankisrs.net/) flash card system is available for 
+
+- [Windows](http://ankisrs.net/#windows)
+- [Mac OS](http://ankisrs.net/#mac)
+- [Linux & BSD](http://ankisrs.net/#linux)
+- [iPhone & Android](http://ankisrs.net/#ios)
+
+
+Anki is also available as a [Web Application](https://ankiweb.net/).
 
 ***
 
