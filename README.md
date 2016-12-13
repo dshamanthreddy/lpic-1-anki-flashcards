@@ -61,4 +61,4 @@ Anki is also available as a [Web Application](https://ankiweb.net/).
 
 ## Contribute
 
-**Found a mistake? Want to help? Send a pull request!**
+**Found a mistake? [Open an issue](https://github.com/jonasjacek/lpic-1-anki-flash-cards/issues)! Want to help? [Contact me](http://jonas.me/#contact) **
