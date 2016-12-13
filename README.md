@@ -36,8 +36,6 @@ Topics and sub-topics are tagged according to the LPIC-1 exam 102 outline.
 - 109 - Networking Fundamentals
 - 110 - Security
 
-***
-
 ## Get Anki
 
 The [Anki](http://ankisrs.net/) flashcard system is available for 
@@ -47,10 +45,7 @@ The [Anki](http://ankisrs.net/) flashcard system is available for
 - [Linux & BSD](http://ankisrs.net/#linux)
 - [iPhone & Android](http://ankisrs.net/#ios)
 
-
 Anki is also available as a [Web Application](https://ankiweb.net/).
-
-***
 
 ## Warranty and Liability
 [LPIC-1 Anki Flashcards](https://github.com/jonasjacek/lpic-1-anki-flashcards) is a small, private project. The author makes absolutely no claims and representations to warranties regarding the accuracy or completeness of the information provided. However, you can use the files in this repository AT YOUR OWN RISK.
@@ -61,5 +56,4 @@ Anki is also available as a [Web Application](https://ankiweb.net/).
 
 ## Contribute
 
-Found a mistake? [Open an issue](https://github.com/jonasjacek/lpic-1-anki-flashcards/issues)! 
-Want to help? [Contact me](http://jonas.me/#contact)!
+Found a mistake? [Open an issue](https://github.com/jonasjacek/lpic-1-anki-flashcards/issues)! Want to help? [Contact me](http://jonas.me/#contact)!
