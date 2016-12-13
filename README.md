@@ -1,6 +1,6 @@
 # Anki Flash Cards for the Linux Professional Institute (LPI) LPIC-1 Exams 101 & 102
 
-[LPIC-1 Anki Flash Cards](https://github.com/jonasjacek/lpic-1-anki-flash-cards) contains flash cards for use with the [Anki](http://ankisrs.net/) flash card system. The flash cards help to prepare for the [Linux Professional Institute (LPI)](https://www.lpi.org/) [LPIC-1](http://www.lpi.org/our-certifications/lpic-1-overview) (Linux System Administrator) exam, which consists of two exams: 101 and 102. To become LPIC-1 certified, you must pass both the 101 and 102 exams. The file `LPIC-1.apkg` contains all flash cards including media in an anki .apkg format, which can be imported into Anki.
+[LPIC-1 Anki Flash Cards](https://github.com/jonasjacek/lpic-1-anki-flash-cards) contains flash cards for use with the [Anki](http://ankisrs.net/) flash card system. The flash cards help to prepare for the [Linux Professional Institute (LPI)](https://www.lpi.org/) [LPIC-1](http://www.lpi.org/our-certifications/lpic-1-overview) (Linux System Administrator) exam, which consists of two exams: 101 and 102. To become LPIC-1 certified, you must pass both the 101 and 102 exams. The file `LPIC-1.apkg` contains all flash cards (including media) in an anki .apkg format, which can be imported into Anki.
 
 ## Status
 
@@ -8,8 +8,8 @@ Property | Value
 ------------ | -------------
 Language of flash cards | English
 Amount of flash cards | 517+
-Completed flash cards for exam 101 | 101, 102
-Completed flash cards for exam 102 | - 
+Completed flash cards for LPIC-1 exam 101 | 101, 102
+Completed flash cards for LPIC-1 exam 102 | - 
 
 ## LPIC-1 Exam 101 Topics
 
