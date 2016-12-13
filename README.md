@@ -1,18 +1,18 @@
 # Anki Flash Cards for the Linux Professional Institute (LPI) LPIC-1 Exams 101 & 102
 
-[LPIC-1 Anki Flash Cards](https://github.com/jonasjacek/lpic-1-anki-flash-cards) contains flash cards for use with the [Anki](http://ankisrs.net/) flash card system. The flash cards help to prepare for the [Linux Professional Institute (LPI)](https://www.lpi.org/) [LPIC-1](http://www.lpi.org/our-certifications/lpic-1-overview) (Linux System Administrator) exam, which consists of two exams: 101 and 102. To become LPIC-1 certified, you must pass both the 101 and 102 exams. 
+[LPIC-1 Anki Flashcards](https://github.com/jonasjacek/lpic-1-anki-flashcards) contains flash cards for use with the [Anki](http://ankisrs.net/) flashcard system. The flashcards help to prepare for the [Linux Professional Institute (LPI)](https://www.lpi.org/) [LPIC-1](http://www.lpi.org/our-certifications/lpic-1-overview) (Linux System Administrator) exam, which consists of two exams: 101 and 102. To become LPIC-1 certified, you must pass both the 101 and 102 exams. 
 
 ## Get The Cards
-The file `LPIC-1.apkg` contains all flash cards (including media) in an anki .apkg format, which can be imported into Anki. Alternatively, you can import the [shared deck](https://ankiweb.net/shared/info/1918029813) directly from [AnkiWeb](https://ankiweb.net/).
+The file `LPIC-1.apkg` contains all flashcards (including media) in an anki .apkg format, which can be imported into Anki. Alternatively, you can import the [shared deck](https://ankiweb.net/shared/info/353842306) directly from [AnkiWeb](https://ankiweb.net/).
 
 ## Status
 
 Property | Value
 ------------ | -------------
-Language of flash cards | English
-Amount of flash cards | 517+
-Completed flash cards for LPIC-1 exam 101 | 101, 102
-Completed flash cards for LPIC-1 exam 102 | - 
+Language of flashcards | English
+Amount of flashcards | 517+
+Completed flashcards for LPIC-1 exam 101 | 101, 102
+Completed flashcards for LPIC-1 exam 102 | - 
 
 ### LPIC-1 Exam 101 Topics
 
@@ -40,7 +40,7 @@ Topics and sub-topics are tagged according to the LPIC-1 exam 102 outline.
 
 ## Get Anki
 
-The [Anki](http://ankisrs.net/) flash card system is available for 
+The [Anki](http://ankisrs.net/) flashcard system is available for 
 
 - [Windows](http://ankisrs.net/#windows)
 - [Mac OS](http://ankisrs.net/#mac)
@@ -53,12 +53,12 @@ Anki is also available as a [Web Application](https://ankiweb.net/).
 ***
 
 ## Warranty and Liability
-[LPIC-1 Anki Flash Cards](https://github.com/jonasjacek/lpic-1-anki-flash-cards) is a small, private project. The author makes absolutely no claims and representations to warranties regarding the accuracy or completeness of the information provided. However, you can use the files in this repository AT YOUR OWN RISK.
+[LPIC-1 Anki Flashcards](https://github.com/jonasjacek/lpic-1-anki-flashcards) is a small, private project. The author makes absolutely no claims and representations to warranties regarding the accuracy or completeness of the information provided. However, you can use the files in this repository AT YOUR OWN RISK.
 
 ## License
 
-<span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">LPIC-1 Anki Flash Cards</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/jonasjacek/lpic-1-anki-flash-cards" property="cc:attributionName" rel="cc:attributionURL">Jonas Jacek</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>. Permissions beyond the scope of this license may be available upon request at <a xmlns:cc="http://creativecommons.org/ns#" href="http://jonas.me/#contact" rel="cc:morePermissions">http://jonas.me/</a>.
+<span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">LPIC-1 Anki Flashcards</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/jonasjacek/lpic-1-anki-flashcards" property="cc:attributionName" rel="cc:attributionURL">Jonas Jacek</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>. Permissions beyond the scope of this license may be available upon request at <a xmlns:cc="http://creativecommons.org/ns#" href="http://jonas.me/#contact" rel="cc:morePermissions">http://jonas.me/</a>.
 
 ## Contribute
 
-**Found a mistake? [Open an issue](https://github.com/jonasjacek/lpic-1-anki-flash-cards/issues)! Want to help? [Contact me](http://jonas.me/#contact) **
+**Found a mistake? [Open an issue](https://github.com/jonasjacek/lpic-1-anki-flashcards/issues)! Want to help? [Contact me](http://jonas.me/#contact) **
