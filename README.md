@@ -14,6 +14,10 @@ Amount of flashcards | 517+
 Completed flashcards for LPIC-1 exam 101 | 101, 102
 Completed flashcards for LPIC-1 exam 102 | - 
 
+## Topics
+
+The deck contains detailed questions with short and concise answers (no multiple choice). All questions and answers are relevant for the LPIC-1 exams. Topics include system architecture, installation of Linux and package management, GNU and Unix commands, devices, Linux filesystems, Filesystem Hierarchy Standard (FHS), shells, scripting and data managment, interfaces and desktops, administrative tasks, essential system services, networking fundamentals, and security.
+
 ### LPIC-1 Exam 101 Topics
 
 Topics and sub-topics are tagged according to the LPIC-1 exam 101 outline.
