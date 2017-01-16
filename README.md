@@ -11,7 +11,7 @@ Property | Value
 ------------ | -------------
 Language of flashcards | English
 Amount of flashcards | 517+
-Completed flashcards for LPIC-1 exam 101 | 101, 102
+Completed flashcards for LPIC-1 exam 101 | 101, 102, 103
 Completed flashcards for LPIC-1 exam 102 | - 
 
 ## Topics
@@ -26,7 +26,8 @@ Topics and sub-topics are tagged according to the LPIC-1 exam 101 outline.
   See tags: *101, 101.1, 101.2, 101.3*
 - 102 - Linux Installation and Package Management  
   See tags: *102, 102.1, 102.2, 102.3, 102.4, 102.5*
-- 103 - GNU and Unix Commands
+- 103 - GNU and Unix Commands  
+  See tags: *103, 103.1, 103.2*
 - 104 - Devices, Linux Filesystems, Filesystem Hierarchy Standard
 
 ### LPIC-1 Exam 102 Topics
