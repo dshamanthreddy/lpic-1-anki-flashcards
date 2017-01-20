@@ -25,4 +25,4 @@ About the author:
 
 
 TAGS:
-linux gnu gnu-linux lpic lpic-1lpi sysadmin root certificate certification bash shell it computer computer-science study flashcards study-guide foss floss open-source free-software software
+linux gnu gnu-linux lpi lpic lpic-1lpi sysadmin root certificate certification bash shell it computer computer-science study flashcards study-guide foss floss open-source free-software software scripting
