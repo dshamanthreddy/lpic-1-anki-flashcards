@@ -10,7 +10,7 @@ The file `LPIC-1.apkg` contains all flashcards (including media) in the Anki .ap
 Property | Value
 ------------ | -------------
 Language of flashcards | English
-Amount of flashcards | 659+
+Amount of flashcards | 692+
 Completed flashcards for LPIC-1 exam 101 | 101, 102, 103
 Completed flashcards for LPIC-1 exam 102 | - 
 
