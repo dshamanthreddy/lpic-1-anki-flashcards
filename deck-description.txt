@@ -1,0 +1,5 @@
+Deck of Anki flashcards for learning for the Linux Professional Institute (LPI) LPIC-1 exams 101 and 102.
+Please <a href="https://github.com/jonasjacek/lpic-1-anki-flashcards/issues">report mistakes</a>. Thank you.
+
+Website: <a href="https://github.com/jonasjacek/lpic-1-anki-flashcards">https://github.com/jonasjacek/lpic-1-anki-flashcards</a>
+Author: <a href="http://jonas.me/">Jonas Jacek</a>
