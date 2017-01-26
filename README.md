@@ -10,7 +10,7 @@ The file `LPIC-1.apkg` contains the deck with all flashcards (including media) i
 <img src="https://github.com/jonasjacek/lpic-1-anki-flashcards/blob/master/import-deck.jpg" width=200 alt="Importing a deck of flashcards into Anki">
 
 ### Download Deck from Ankiweb
-Alternatively, you can import an older version of the [shared deck](https://ankiweb.net/shared/info/575656891) directly from [AnkiWeb](https://ankiweb.net/).
+As an alternative to the download from GitHub, you can download and/or import an older version of the [shared deck](https://ankiweb.net/shared/info/575656891) directly from [AnkiWeb](https://ankiweb.net/).
 
 ## Overview
 
