@@ -1,10 +1,10 @@
-# Anki Flashcards for the Linux Professional Institute (LPI) LPIC-1 Exams 101 & 102
-**Work in progress**: New flashcards added daily.
+# Deck of Anki Flashcards for the Linux Professional Institute (LPI) LPIC-1 Exams 101 & 102
+**Work in progress**: New flashcards are added to the deck on a daily basis.
 
-[LPIC-1 Anki Flashcards](https://github.com/jonasjacek/lpic-1-anki-flashcards) contains flashcards for use with the [Anki](http://ankisrs.net/) flashcard system. The flashcards help to prepare for the [Linux Professional Institute (LPI)](https://www.lpi.org/) [LPIC-1](http://www.lpi.org/our-certifications/lpic-1-overview) (Linux System Administrator) exam, which consists of two exams: 101 and 102. To become LPIC-1 certified, you must pass both the 101 and 102 exams. 
+[LPIC-1 Anki Flashcards](https://github.com/jonasjacek/lpic-1-anki-flashcards) contains a deck of flashcards for use with the [Anki](http://ankisrs.net/) flashcard system. The deck of flashcards helps to prepare for the [Linux Professional Institute (LPI)](https://www.lpi.org/) [LPIC-1](http://www.lpi.org/our-certifications/lpic-1-overview) (Linux System Administrator) exam, which consists of two exams: 101 and 102. To become LPIC-1 certified, you must pass both, the 101 and 102 exams. 
 
-## Get The Flashcards
-The file `LPIC-1.apkg` contains all flashcards (including media) in the Anki .apkg format, which can be imported into Anki. Alternatively, you can import the [shared deck](https://ankiweb.net/shared/info/353842306) directly from [AnkiWeb](https://ankiweb.net/).
+## Get the Deck of Flashcards
+The file `LPIC-1.apkg` contains the deck with all flashcards (including media) in the Anki .apkg format, which can be imported into Anki. Alternatively, you can import the [shared deck](https://ankiweb.net/shared/info/353842306) directly from [AnkiWeb](https://ankiweb.net/).
 
 ## Status Flashcards
 
@@ -44,7 +44,7 @@ Topics and sub-topics are tagged according to the LPIC-1 exam 102 outline.
 
 ## Get Anki
 
-The [Anki](http://ankisrs.net/) flashcard system is available for 
+The [Anki](http://ankisrs.net/) flashcard system is available for:
 
 - [Windows](http://ankisrs.net/#windows)
 - [Mac OS](http://ankisrs.net/#mac)
