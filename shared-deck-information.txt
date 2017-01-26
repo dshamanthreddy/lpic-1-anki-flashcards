@@ -6,12 +6,14 @@
 
 
 # TITLE
-Anki Flashcards for the LPI LPIC-1 Exams 101 & 102
+Anki flashcards deck for the LPI LPIC-1 Exams 101 & 102
 
 
 
 # DESCRIPTION
-The shared deck <b><a href="https://github.com/jonasjacek/lpic-1-anki-flashcards" >LPIC-1 Anki Flashcards</a></b> is a <b>work in progress</b>. To get the latest version, visit: <a href="https://github.com/jonasjacek/lpic-1-anki-flashcards">https://github.com/jonasjacek/lpic-1-anki-flashcards</a></b>.
+The shared deck <b><a href="https://github.com/jonasjacek/lpic-1-anki-flashcards" >LPIC-1 Anki Flashcards</a></b> is a <b>work in progress</b>. 
+
+To get the latest version, visit: <a href="https://github.com/jonasjacek/lpic-1-anki-flashcards">https://github.com/jonasjacek/lpic-1-anki-flashcards</a></b>.
 
 You can also <b>get the latest deck directly:</b> <a href="https://github.com/jonasjacek/lpic-1-anki-flashcards/blob/master/LPIC-1.apkg">https://github.com/jonasjacek/lpic-1-anki-flashcards/blob/master/LPIC-1.apkg</a>.
 
@@ -24,4 +26,4 @@ About the author: <a href="http://jonas.me/">Jonas Jacek</a>
 
 
 TAGS:
-linux unix gnu gnu-linux lpi lpic lpic-1 sysadmin root certificate certification bash shell it computer computer-science study flashcards study-guide foss floss open-source free-software software scripting ubuntu debian fedora suse manjaro programming
+linux unix gnu gnu-linux lpi lpic lpic-1 sysadmin root certificate certification bash shell it computer computer-science study flashcards study-guide foss floss open-source free-software software scripting ubuntu debian fedora suse manjaro programming development
