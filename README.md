@@ -4,11 +4,12 @@
 [LPIC-1 Anki Flashcards](https://github.com/jonasjacek/lpic-1-anki-flashcards) contains a deck of flashcards for use with the [Anki](http://ankisrs.net/) flashcard system. The deck of flashcards helps to prepare for the [Linux Professional Institute (LPI)](https://www.lpi.org/) [LPIC-1](http://www.lpi.org/our-certifications/lpic-1-overview) (Linux System Administrator) exam, which consists of two exams: 101 and 102. To become LPIC-1 certified, you must pass both, the 101 and 102 exams. 
 
 ## Get the Deck of Flashcards
+### Download Deck from GitHub
 The file `LPIC-1.apkg` contains the deck with all flashcards (including media) in the Anki deck format with the `.apkg` file extension. The `LPIC-1.apkg` file can be imported into Anki:
-
 <img src="https://github.com/jonasjacek/lpic-1-anki-flashcards/blob/master/import-deck.jpg" width=200 alt="Importing a deck of flashcards into Anki">
 
-<!-- Alternatively, you can import the [shared deck](https://ankiweb.net/shared/info/353842306) directly from [AnkiWeb](https://ankiweb.net/). -->
+### Download Deck from Ankiweb
+Alternatively, you can import an older version of the [shared deck](https://ankiweb.net/shared/info/575656891) directly from [AnkiWeb](https://ankiweb.net/).
 
 ## Overview
 
