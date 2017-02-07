@@ -42,17 +42,17 @@ Topics and sub-topics are tagged according to the LPIC-1 exam 101 outline.
 
 Topics and sub-topics are tagged according to the LPIC-1 exam 102 outline.
 
-- 105 - Shells, Scripting and Data Management
+- 105 - Shells, Scripting and Data Management  
   <sup>**See tags:** work in progress</sup>
-- 106 - Interfaces and Desktops
+- 106 - Interfaces and Desktops  
   <sup>**See tags:** work in progress</sup>
-- 107 - Administrative Tasks
+- 107 - Administrative Tasks  
   <sup>**See tags:** work in progress</sup>
-- 108 - Essential System Services
+- 108 - Essential System Services  
   <sup>**See tags:** work in progress</sup>
-- 109 - Networking Fundamentals
+- 109 - Networking Fundamentals  
   <sup>**See tags:** work in progress</sup>
-- 110 - Security
+- 110 - Security  
   <sup>**See tags:** work in progress</sup>
 
 ## Get Anki
