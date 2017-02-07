@@ -1,6 +1,6 @@
-**[Download the deck here](https://github.com/jonasjacek/lpic-1-anki-flashcards/raw/master/LPIC-1.apkg)**
+**[Download the LPIC-1 flashcards for Anki here.](https://github.com/jonasjacek/lpic-1-anki-flashcards/raw/master/LPIC-1.apkg)**
 
-** 
+--- 
 
 # Deck of Anki Flashcards for the Linux Professional Institute (LPI) LPIC-1 Exams 101 & 102
 
