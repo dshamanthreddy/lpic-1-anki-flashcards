@@ -5,7 +5,7 @@
 
 ## Get the Deck of Flashcards
 ### Download Deck from GitHub
-The file `LPIC-1.apkg` contains the deck with all flashcards (including media) in the Anki deck format with the `.apkg` file extension. You can get it [here](https://github.com/jonasjacek/lpic-1-anki-flashcards/blob/master/LPIC-1.apkg). The `LPIC-1.apkg` file can be imported into Anki:
+The file `LPIC-1.apkg` contains the deck with all flashcards (including media) in the Anki deck format with the `.apkg` file extension. You can **[download the deck here](https://github.com/jonasjacek/lpic-1-anki-flashcards/raw/master/LPIC-1.apkg)**. The `LPIC-1.apkg` file can be imported into Anki:
 
 <img src="https://github.com/jonasjacek/lpic-1-anki-flashcards/blob/master/import-deck.jpg" width=200 alt="Importing a deck of flashcards into Anki">
 
