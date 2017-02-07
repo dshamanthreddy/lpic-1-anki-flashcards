@@ -26,7 +26,7 @@ Completed cards for LPIC-1 exam 102 topics | 0
 
 ## Topics
 
-The deck contains detailed questions with short and concise answers (no multiple choice). All questions and answers are relevant for the LPIC-1 exams. Topics include system architecture, installation of Linux and package management, GNU and Unix commands, devices, Linux filesystems, Filesystem Hierarchy Standard (FHS), shells, scripting and data managment, interfaces and desktops, administrative tasks, essential system services, networking fundamentals, and security.
+The deck contains detailed questions with concise answers (no multiple choice). All cards are relevant for the LPIC-1 exams. Topics include system architecture, installation of Linux and package management, GNU and Unix commands, devices, Linux filesystems, Filesystem Hierarchy Standard (FHS), shells, scripting and data managment, interfaces and desktops, administrative tasks, essential system services, networking fundamentals, and security.
 
 ### LPIC-1 Exam 101 Topics
 
