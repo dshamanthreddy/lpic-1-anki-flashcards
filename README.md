@@ -21,7 +21,7 @@ Property | Value
 ------------ | -------------
 Language | English
 Number of cards | 849
-Completed cards for LPIC-1 exam 101 topics | 101, 102, 103
+Completed cards for LPIC-1 exam 101 topics | 101, 102, 103, 104
 Completed cards for LPIC-1 exam 102 topics | 0
 
 ## Topics
