@@ -30,9 +30,9 @@ The deck contains detailed questions with short and concise answers (no multiple
 Topics and sub-topics are tagged according to the LPIC-1 exam 101 outline.
 
 - 101 - System Architecture  
-  See tags: *101, 101.1, 101.2, 101.3*
+  <small>See tags: *101, 101.1, 101.2, 101.3*</small>
 - 102 - Linux Installation and Package Management  
-  See tags: *102, 102.1, 102.2, 102.3, 102.4, 102.5*
+  <sup>See tags: *102, 102.1, 102.2, 102.3, 102.4, 102.5*</sup>
 - 103 - GNU and Unix Commands  
   See tags: *103, 103.1, 103.2, 103.3*
 - 104 - Devices, Linux Filesystems, Filesystem Hierarchy Standard
