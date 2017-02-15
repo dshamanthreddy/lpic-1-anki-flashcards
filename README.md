@@ -20,8 +20,8 @@ As an alternative to the download from GitHub, you can download and/or import an
 Property | Value
 ------------ | -------------
 Language | English
-Number of cards | 930
-Number of images | 11
+Number of cards | 951
+Number of images | 13
 Completed cards for LPIC-1 exam 101 topics | 101, 102, 103, 104
 Completed cards for LPIC-1 exam 102 topics | 0
 
