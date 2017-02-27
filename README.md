@@ -20,7 +20,7 @@ As an alternative to the download from GitHub, you can download and/or import an
 Property | Value
 ------------ | -------------
 Language | English
-Number of cards | 1005
+Number of cards | 1026
 Number of images | 19
 Completed cards for LPIC-1 exam 101 topics | 101.1, 101.2, 101.3, 102.1, 102.2, 102.3, 102.4, 102.5, 103.1, 103.2, 103.3, 103.4, 103.5, 103.6
 Completed cards for LPIC-1 exam 102 topics | 0
@@ -71,7 +71,7 @@ The [Anki](http://ankisrs.net/) flashcard system is available for:
 Anki is also available as a [Web Application](https://ankiweb.net/).
 
 ## Warranty and Liability
-[LPIC-1 Anki Flashcards](https://github.com/jonasjacek/lpic-1-anki-flashcards) is a small, private project. The author makes absolutely no claims and representations to warranties regarding the accuracy or completeness of the information provided. However, you can use the files in this repository AT YOUR OWN RISK.
+[LPIC-1 Anki Flashcards](https://github.com/jonasjacek/lpic-1-anki-flashcards) is a small, private project. The author makes absolutely no claims and representations to warranties regarding the accuracy or completeness of the information provided. However, you can use the information in this repository AT YOUR OWN RISK.
 
 ## License
 
@@ -79,4 +79,4 @@ Anki is also available as a [Web Application](https://ankiweb.net/).
 
 ## Contribute
 
-Found a mistake? [Open an issue](https://github.com/jonasjacek/lpic-1-anki-flashcards/issues)! Want to help? [Contact me](http://jonas.me/#contact)!
+Found a mistake? [Open an issue](https://github.com/jonasjacek/lpic-1-anki-flashcards/issues) or [send a pull request](https://github.com/jonasjacek/lpic-1-anki-flashcards/pulls)! Want to help in another way? [Contact me](http://jonas.me/#contact)!
