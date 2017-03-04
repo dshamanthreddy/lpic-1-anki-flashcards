@@ -38,7 +38,7 @@ Topics and sub-topics are tagged according to the LPIC-1 exam 101 outline.
 - 102 - Linux Installation and Package Management  
   <sup>**See tags:** 102, 102.1, 102.2, 102.3, 102.4, 102.5</sup>
 - 103 - GNU and Unix Commands  
-  <sup>**See tags:** 103, 103.1, 103.2, 103.3, 103.4, 103.5, 103.6, 103.7</sup>
+  <sup>**See tags:** 103, 103.1, 103.2, 103.3, 103.4, 103.5, 103.6, 103.7, 103.8</sup>
 - 104 - Devices, Linux Filesystems, Filesystem Hierarchy Standard  
   <sup>**See tags:** work in progress</sup>
 
