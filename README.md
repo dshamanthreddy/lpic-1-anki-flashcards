@@ -20,7 +20,7 @@ As an alternative to the download from GitHub, you can download and/or import an
 Property | Value
 ------------ | -------------
 Language | English
-Number of cards | 1160
+Number of cards | 1181
 Number of images | 27
 Completed cards for LPIC-1 exam 101 topics | 101.1, 101.2, 101.3, 102.1, 102.2, 102.3, 102.4, 102.5, 103.1, 103.2, 103.3, 103.4, 103.5, 103.6, 103.7, 103.8, 104.1
 Completed cards for LPIC-1 exam 102 topics | 0
