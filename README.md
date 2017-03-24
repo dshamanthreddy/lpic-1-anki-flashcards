@@ -20,9 +20,9 @@ As an alternative to the download from GitHub, you can download and/or import an
 Property | Value
 ------------ | -------------
 Language | English
-Number of cards | 1244
+Number of cards | 1263
 Number of images | 32
-Completed cards for LPIC-1 exam 101 topics | 101.1, 101.2, 101.3, 102.1, 102.2, 102.3, 102.4, 102.5, 103.1, 103.2, 103.3, 103.4, 103.5, 103.6, 103.7, 103.8, 104.1, 104.2
+Completed cards for LPIC-1 exam 101 topics | 101.1, 101.2, 101.3, 102.1, 102.2, 102.3, 102.4, 102.5, 103.1, 103.2, 103.3, 103.4, 103.5, 103.6, 103.7, 103.8, 104.1, 104.2, 104.3
 Completed cards for LPIC-1 exam 102 topics | 0
 
 ## Topics
@@ -40,7 +40,7 @@ Topics and sub-topics are tagged according to the LPIC-1 exam 101 outline.
 - 103 - GNU and Unix Commands  
   <sup>**See tags:** 103, 103.1, 103.2, 103.3, 103.4, 103.5, 103.6, 103.7, 103.8</sup>
 - 104 - Devices, Linux Filesystems, Filesystem Hierarchy Standard  
-  <sup>**See tags:** 104.1, 104.2</sup>
+  <sup>**See tags:** 104.1, 104.2, 104.3</sup>
 
 ### LPIC-1 Exam 102 Topics
 
