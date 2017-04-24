@@ -20,16 +20,16 @@ As an alternative to the download from GitHub, you can download and/or import an
 Property | Value
 ------------ | -------------
 Language | English
-Number of cards | 1397
+Number of cards | 1455
 Number of images | 33
-Completed cards for LPIC-1 exam 101 topics | 101.1, 101.2, 101.3, 102.1, 102.2, 102.3, 102.4, 102.5, 103.1, 103.2, 103.3, 103.4, 103.5, 103.6, 103.7, 103.8, 104.1, 104.2, 104.3, 104.4, 104.5, 104.6
+Completed cards for LPIC-1 exam 101 topics | 101.1, 101.2, 101.3, 102.1, 102.2, 102.3, 102.4, 102.5, 103.1, 103.2, 103.3, 103.4, 103.5, 103.6, 103.7, 103.8, 104.1, 104.2, 104.3, 104.4, 104.5, 104.6, 104.7
 Completed cards for LPIC-1 exam 102 topics | 0
 
 ## Topics
 
 The deck contains detailed questions with concise answers (no multiple choice). All cards are relevant for the LPIC-1 exams. Topics include system architecture, installation of Linux and package management, GNU and Unix commands, devices, Linux filesystems, Filesystem Hierarchy Standard (FHS), shells, scripting and data managment, interfaces and desktops, administrative tasks, essential system services, networking fundamentals, and security.
 
-### LPIC-1 Exam 101 Topics
+### LPIC-1 Exam 101 Topics (complete)
 
 Topics and sub-topics are tagged according to the LPIC-1 exam 101 outline.
 
@@ -40,9 +40,9 @@ Topics and sub-topics are tagged according to the LPIC-1 exam 101 outline.
 - 103 - GNU and Unix Commands  
   <sup>**See tags:** 103, 103.1, 103.2, 103.3, 103.4, 103.5, 103.6, 103.7, 103.8</sup>
 - 104 - Devices, Linux Filesystems, Filesystem Hierarchy Standard  
-  <sup>**See tags:** 104.1, 104.2, 104.3, 104.4, 104.5, 104.6</sup>
+  <sup>**See tags:** 104.1, 104.2, 104.3, 104.4, 104.5, 104.6, 104.7</sup>
 
-### LPIC-1 Exam 102 Topics
+### LPIC-1 Exam 102 Topics (work in progress)
 
 Topics and sub-topics are tagged according to the LPIC-1 exam 102 outline.
 
